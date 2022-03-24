@@ -37,10 +37,10 @@ lorem ........
 ##### Developed With
 
 - [x] _HTML5_
-- [ ] _CSS3_
-- [x] _SASS_
-- [x] _SCSS_
-- [x] _JavaScript_
+- [x] _CSS3_
+- [ ] _SASS_
+- [ ] _SCSS_
+- [ ] _JavaScript_
 - [ ] _React_
 - [ ] _Bootstrap_
 - [x] _npm_
@@ -50,9 +50,8 @@ lorem ........
 
 ### Contact
 
-Mail: <you@mail.com><br>
-GitHub: [yourGHName](https://github.com/)<br>
-LinkedIn: [your linkedIn](#)
+Mail: <jerrywow89@web.de><br>
+GitHub: [JerrySteinert](https://github.com/JerrySteinert)<br>
 
 ---
 
