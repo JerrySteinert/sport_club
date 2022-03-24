@@ -17,7 +17,6 @@
 - Contact
   - _Mail_
   - _GitHub_
-  - _LinkedIn_
 - Used Tools
   - _Fonts_
   - _Design_
