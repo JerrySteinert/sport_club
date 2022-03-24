@@ -1,6 +1,6 @@
 ## Sport Club
 
-**[Test this app yourself](github.io)**
+**https://jerrysteinert.github.io/sport_club/**
 
 ---
 
